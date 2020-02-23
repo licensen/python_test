@@ -1,2 +1,3 @@
 # python_test
-# test readme
+* test readme
+* hello word ! 
